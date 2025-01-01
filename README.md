@@ -1,2 +1,2 @@
 # 60 dias de programação em Python
-- [ ] Dia 1 - 
+- [x] Dia 1 - Olá Mundo em Python
