@@ -3,4 +3,5 @@
 - [x] Dia 2 - Soma de dois numero de duas formas diferentes
 - [x] Dia 3 - Condicional que verifica se numero é par ou ímpar
 - [x] Dia 4 - Laço de repetição usando while e for
-- [ ] Dia 5 - 
+- [x] Dia 5 - Funcao que imprimi o quadrado de um numero
+- [ ] Dia 6 - 
