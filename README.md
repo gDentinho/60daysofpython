@@ -5,4 +5,5 @@
 - [x] Dia 4 - Laço de repetição usando while e for.
 - [x] Dia 5 - Funcao que imprimi o quadrado de um numero.
 - [x] Dia 6 - Lista de frutas usando for e tambem while True.
-- [ ] Dia 7 - 
+- [x] Dia 7 - Dicionario de aluno dinamito e estatico
+- [ ] Dia 8 - 
